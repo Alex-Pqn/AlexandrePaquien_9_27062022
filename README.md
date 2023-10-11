@@ -61,7 +61,7 @@ Matthieu \
 
 Ça y est, vous avez toutes les informations pour démarrer la correction de cette application. C’est parti !
 
-#### Objectifs
+#### Objectifs réalisés
 - [Description des fonctionnalités](./src/assets/Description%20des%20fonctionnalités.pdf) respectée
 - Ajout des tests unitaires et d’intégration pour les fichiers Bills et NewBill. [Couverture globale](./src/assets/Rapport%20couverture.PNG) des containers demandés de 80% minimum (tests unitaires et tests d’intégration)
   - Mock de l’API utilisé
